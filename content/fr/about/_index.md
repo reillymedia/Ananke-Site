@@ -1,7 +1,7 @@
 ---
 title: "À propos de"
 description: "Il y a quelques années, en visitant ou plutôt en fouillant à Notre-Dame, l'auteur de ce livre a trouvé, dans un recoin obscur de l'une des tours, le mot suivant, gravé à la main sur le mur : -ANANKE. "
-featured_image: ''
+featured_image: '/images/gohugo-default-sample-hero-image.jpg'
 url: "/a-propos-de/"
 ---
 {{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration de Victor Hugo et son temps (1881)" >}}
