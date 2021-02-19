@@ -2,7 +2,7 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Hugo is Dope"
 theme = "ananke"
-resourceDir = "../resources"
+resourceDir = "../..resources"
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
